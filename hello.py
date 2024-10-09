@@ -5,4 +5,5 @@ if greet == "indian":
     print("how is going")
 else:
     print("hello..")
-    
+    print("nice to meet you")
+    print("how are you")
