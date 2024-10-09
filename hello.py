@@ -7,4 +7,4 @@ if greet == "indian":
 else:
     print("hello..")
     print("nice to meet you")
-    print("how are you")
+    print("how are you?")
