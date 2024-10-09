@@ -3,6 +3,7 @@ greet = input("Enter resion : ")
 if greet == "indian":
     print("namaste..")
     print("how is going")
+    print("which state you are from")
 else:
     print("hello..")
     print("nice to meet you")
